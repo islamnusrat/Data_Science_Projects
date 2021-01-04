@@ -15,14 +15,18 @@ Small projects which use statistical inference tests to determine significant di
 
 ### Machine Learning
 Small projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specific for the algorithm being used in the project. Clustering, Naive Bayes, Linear Regression, Logistic Regression, and Deep Neural Network algorithms are practiced in this section.
+* Supervised Learning:
+
   * [Linear Regression on Red Wine Quality](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Linear%20Regression%20Case%20Study/Springboard%20Regression%20Case%20Study%2C%20Unit%208%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203%20(1).ipynb)
   * [Logistic Regression to classify male and female using heights and weights](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Logistic_Regression_Advanced_Case_Study_updated/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
-  * [Customer Segmentation with K-Means Clustering](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Clustering%20Case%20Study/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
   * [Grid Serach kNN ](https://github.com/islamnusrat/Data_Science_Projects/blob/master/GridSearch%20KNN%20Case%20Study/GridSearchKNN_Case_Study.ipynb)
   * [Decision Tree Specialty Coffee Case Study](https://github.com/islamnusrat/Data_Science_Projects/blob/master/RR%20Diner%20Case%20Study/Springboard%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20-%20Tier%203%20(1).ipynb)
   * [Random Forest COVID-19 Case Study in South Korea](https://github.com/islamnusrat/Data_Science_Projects/blob/master/RandomForest_Covid_Case_Study/RandomForest_casestudy_covid19.ipynb)
   * [Gradient Tree Boosting on Titanic Dataset](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Gradient%20Boosting%20Case%20Study/Gradient%20Boosting%20Case%20Study.ipynb)
   * [Light Gradient Boosting Method to predict flight departures](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Bayesian%20Optimization%20Case%20Study/Bayesian_optimization_case_study.ipynb)
+* Unsupervised Learning: 
+
+  * [Customer Segmentation with K-Means Clustering](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Clustering%20Case%20Study/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
 
 ### Data Story
 Mini Project combining exploratory data analysis and statistical inference are used to analyse a dataset and tell a story that emerges from the analysis. 
