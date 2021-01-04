@@ -14,7 +14,7 @@ Small projects which use statistical inference tests to determine significant di
   * [Frequentist Inference on Hospital Medical Charges Case Study](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Frequentist%20Case%20Study/Frequentist%20Inference%20Case%20Study%20-%20Part%20B%20(2).ipynb)
 
 ### Machine Learning
-Small projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specific for the algorithm being used in the project. Clustering, Naive Bayes, Linear Regression, Logistic Regression, and Deep Neural Network algorithms are practiced in this section.
+Small projects related to various standard ML algorithms. Projects invlove preprocessing steps, hyperparameter tuning, and validations needed specific for the algorithm being used in the project. Clustering, Naive Bayes, Linear Regression, Logistic Regression, and Decision Tree algorithms are practiced in this section.
 * Supervised Learning:
 
   * [Linear Regression on Red Wine Quality](https://github.com/islamnusrat/Data_Science_Projects/blob/master/Linear%20Regression%20Case%20Study/Springboard%20Regression%20Case%20Study%2C%20Unit%208%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203%20(1).ipynb)
